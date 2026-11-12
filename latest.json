@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "- Link your Raidline character: start Raidline from PlayOff One and answer once (or use a code in the lobby)\n- Friends see whether you're in the lobby or in a raid\n- Add friend shows the players you played with recently\n- Settings → Account: your linked character, with Unlink",
-  "pub_date": "2026-11-11T21:58:19.121Z",
+  "version": "0.8.1",
+  "notes": "- Updates now come from PlayOff One's own release channel. Nothing changes for you.",
+  "pub_date": "2026-11-12T03:00:42.819Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR1c2dE5hOU04T2QwYks2TnpRM1VhZlVLZTJuTU5zYlhTUjVPZUtHRmtvU1Z2Z0lpdU5ld0RmNkExcXh1enI4NkJUYUNtdEpzUDRZSml3RFFsd01hWGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDM0MjM5CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQp3L3FwVERHRVJKODdzc1JTNFBONWpYOUNyRm1kZzBlTHZiSTU4S1JmalhJSTJYNXJpN1N2UjRxcmUvZkpvRU90SkZnS0duUUVnRlo3WUpYRVp3QnhCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.8.0/PlayOffOneSetup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTUxOYW9PNlBQR2VaZDBIYWdDNlNhM2lEdlBUeWlRR0NONEdjVVh6TVR6RnVvT1h2QVExSTVWbGFnM0RxOU1PTWlSVlIrL1AyK3AyY3ExV091WkhuWWVlWUVCWjFxTXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDM4NTY4CWZpbGU6UGxheU9mZk9uZVNldHVwLmV4ZQphRFZFSmxtL1RZdWFlMXlEenUzOElNOGxxSmg5OFZvRU55c3VHSUpHK1BCUDdPZkg2ZzJ2OTR2K0xxd3liTWRiNHhPc1pTeGtBUlFLdzhUSmJ5VkpEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/TurjemanDev/playoffone-releases/main/v0.8.1/PlayOffOneSetup.exe"
     }
   }
 }
